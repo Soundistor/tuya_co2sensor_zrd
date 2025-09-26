@@ -1,13 +1,10 @@
 [
-    {
-        "url": "images/1141-d3a3-1111114b-tuya_co2sensor_zrd.zigbee",
-        "modelId": "TS0601",
-        "manufacturerName": [
-                             "_TZE200_ogkdpgy2",
-                             "_TZE204_ogkdpgy2",
-                             "_TZE204_yvx5lh6k",
-                             "_TZE200_yvx5lh6k"
-                             ],
-        "force": true
-    }
+  {
+    "url": "images/6565-0393-10053001-tuya_co2sensor_zrd.zigbee",
+    "modelId": "TS0601",
+    "manufacturerName": [
+      "_TZE200_mja3fuja"
+    ],
+    "force": true
+  }
 ]
